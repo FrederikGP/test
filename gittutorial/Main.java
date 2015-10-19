@@ -18,7 +18,7 @@ public class Main {
      */
     public static void main(String[] args) {
         
-        Random ran = new Random();
+       Random ran = new Random();
        
        int R = ran.nextInt(10) + 1;
        int H = ran.nextInt(10) + 1;
